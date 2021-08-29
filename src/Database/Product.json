@@ -1,0 +1,113 @@
+[
+  {
+    "_id": 1,
+    "rating": 4,
+    "inStock": true,
+    "fastDelivery": true,
+    "offer": 25,
+    "brand": "Nike",
+    "category": "tshirt",
+
+    "image": "https://www.linkpicture.com/q/mario-klassen-t8yimzM2bEY-unsplash.jpg",
+    "name": "Neog Formal Shirt",
+    "description": "Lorem ipsum dolor sit amet.",
+    "price": 599,
+    "__v": 0
+  },
+  {
+    "_id": 2,
+
+    "rating": 4,
+    "inStock": true,
+    "fastDelivery": true,
+    "offer": 29,
+    "brand": "WROGN",
+    "category": "top",
+
+    "image": "https://www.linkpicture.com/q/laura-chouette-Pv3DjB4Q7nk-unsplash.jpg",
+    "name": "Classic Office ",
+    "description": "Lorem ipsum dolor dewdks sit amet.",
+    "price": 1299,
+    "__v": 0
+  },
+  {
+    "_id": 3,
+
+    "rating": 5,
+    "inStock": true,
+    "fastDelivery": false,
+    "offer": 39,
+    "brand": "WROGN",
+    "category": "top",
+
+    "image": "https://www.linkpicture.com/q/laura-chouette-Pv3DjB4Q7nk-unsplash.jpg",
+    "name": "Travel Hard ",
+    "description": "doin ipsum dolor dewdks doin amet.",
+    "price": 999,
+    "__v": 0
+  },
+  {
+    "_id": 4,
+
+    "rating": 4,
+    "inStock": true,
+    "fastDelivery": true,
+    "offer": 50,
+    "brand": "Adidas",
+    "category": "tshirt",
+    "size": "S",
+    "image": "https://www.linkpicture.com/q/sahil-moosa-m1MRYp556Ew-unsplash_1.jpg",
+    "name": "White T-shirt",
+    "description": "Lorem ipsum dolor sit amet, consectetu.",
+    "price": 958,
+    "__v": 0
+  },
+  {
+    "_id": 5,
+
+    "rating": 3,
+    "inStock": true,
+    "fastDelivery": false,
+    "offer": 15,
+    "brand": "Nike",
+    "category": "tshirt",
+
+    "image": "https://www.linkpicture.com/q/mubariz-mehdizadeh-Py8F6-hRn5o-unsplash.jpg",
+    "name": "Sleeveless T-shirt",
+    "description": "Lorem ipsum dolor sit amet.",
+    "price": 350,
+    "__v": 0
+  },
+  {
+    "_id": 6,
+
+    "rating": 5,
+    "inStock": true,
+    "fastDelivery": true,
+    "offer": 26,
+    "brand": "Gucci",
+    "category": "top",
+
+    "image": "https://www.linkpicture.com/q/laura-chouette-1LaswOGM-aU-unsplash.jpg",
+    "name": "Night Revoir",
+    "description": "Lorem ipsum dolor sit amet.",
+    "price": 1333,
+    "__v": 0
+  },
+
+  {
+    "_id": 7,
+
+    "rating": 5,
+    "inStock": true,
+    "fastDelivery": true,
+    "offer": 55,
+    "brand": "Adidas",
+    "category": "shirt",
+    "image": "https://www.linkpicture.com/q/oleg-ivanov-sg_gRhbYXhc-unsplash.jpg",
+    "name": "Summer Sweet",
+    "description": "Lorem ipsum dolor sit amet.",
+    "price": 999,
+    "__v": 0
+  }
+]

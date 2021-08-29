@@ -1,0 +1,13 @@
+.filter-top-div {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid gainsboro;
+}
+.btn-clear-filter {
+  background-color: white;
+  border: none;
+  text-decoration: underline;
+}
+.btn-clear-filter:hover {
+  color: red;
+}

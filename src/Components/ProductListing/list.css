@@ -1,0 +1,26 @@
+.home-main-div {
+  display: flex;
+}
+.home-filter-left-div {
+  width: 18%;
+  padding: 1rem;
+  border-right: 1px solid gainsboro;
+}
+.pr-listing-main-div {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1rem;
+  width: 85%;
+  /* justify-content: center; */
+}
+.card {
+  margin-left: 4rem;
+  text-align: left;
+  margin-top: 1rem;
+}
+.card-img-div {
+  height: 15rem;
+}
+.card-img-div img {
+  height: 100%;
+}

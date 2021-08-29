@@ -1,0 +1,15 @@
+.navbar {
+  padding: 1.5rem;
+  padding-right: 4rem;
+  color: black;
+  padding-left: 5rem;
+
+  background-color: skyblue;
+}
+.nav-cart-btn-div h3 {
+  display: flex;
+}
+.nav-cart-btn-div h3:hover {
+  cursor: pointer;
+  color: orangered;
+}
